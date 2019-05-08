@@ -16,6 +16,4 @@ plt.title('Edge image'), plt.xticks([]), plt.yticks([])
 plt.imshow(img_gauss, cmap='gray')
 plt.title('Gauss image'), plt.xticks([]), plt.yticks([])
 
-
-
 plt.show()
